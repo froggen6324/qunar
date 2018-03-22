@@ -12,7 +12,7 @@
 <script>
 
 export default {
-  name: 'IndexHeader'
+  name: 'index-header'
 
 }
 </script>
@@ -26,15 +26,15 @@ export default {
 		width:.8rem
 		line-height:.88rem
 		text-align:center
-		font-size:.44rem
-		font-weight:bold
+		font-size:.4rem
 		color:#fff
+		font-weight:900
 	.search
 		flex:1
-		height:.7rem
+		height:.6rem
 		background:#fff
 		margin:auto
-		line-height:.7rem
+		line-height:.6rem
 		text-indent:.2rem
 		color:#ccc
 		border-radius:.1rem
